@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jamming_capstone/static/css/main.44b70edc.css",
+    "main.js": "/jamming_capstone/static/js/main.ada1ff37.js",
+    "index.html": "/jamming_capstone/index.html",
+    "main.44b70edc.css.map": "/jamming_capstone/static/css/main.44b70edc.css.map",
+    "main.ada1ff37.js.map": "/jamming_capstone/static/js/main.ada1ff37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b70edc.css",
+    "static/js/main.ada1ff37.js"
+  ]
+}
